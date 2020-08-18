@@ -12,3 +12,5 @@ the data set is downloaded from [Yahoo Finance](https://finance.yahoo.com/quote/
 ## Predictions
 <!-- Image -->
 ![predictions](https://user-images.githubusercontent.com/57441828/90457620-54f5d980-e0fc-11ea-8529-c53ea7ca7fd2.png)
+
+Note: Time Step = 1 day
