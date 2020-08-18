@@ -6,6 +6,8 @@
 The data is describing the change in price (daily) of bitcoins over the course of 4 years from 18 aug 2015 to 18 aug 2019. 
 
 goal: to predict the opening price for the period 19 aug 2019 to 18 aug 2020
+<!-- Link -->
+the data set is downloaded from [Yahoo Finance](https://finance.yahoo.com/quote/BTC-USD?p=BTC-USD&.tsrc=fin-srch)
 
 ## Predictions
 <!-- Image -->
